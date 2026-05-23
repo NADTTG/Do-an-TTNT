@@ -85,12 +85,6 @@ Hill Climbing bắt đầu từ trạng thái ngẫu nhiên, sau đó liên tụ
 
 ## Cách chạy chương trình
 
-### Cài đặt thư viện
-```bash
-pip install -r requirements.txt
-```
-
-### Chạy chương trình
 ```bash
 python3 8Queen.py
 ```
