@@ -88,3 +88,4 @@ Hill Climbing bắt đầu từ trạng thái ngẫu nhiên, sau đó liên tụ
 ### Cài đặt thư viện
 ```bash
 pip install -r requirements.txt
+python3 8Queen..py
