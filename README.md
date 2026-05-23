@@ -21,7 +21,7 @@ Dự án này được xây dựng nhằm:
 
 ---
 
-## Demo giao diện
+## Demo 
 
 ### 1. Màn hình chính
 Giao diện cho phép người dùng chọn thuật toán và bắt đầu giải bài toán.
