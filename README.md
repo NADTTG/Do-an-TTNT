@@ -40,7 +40,6 @@ Kết quả cho thấy DFS có thể tìm được đầy đủ 92 nghiệm củ
 
 ### 4. BFS (Priority Queue / Heuristic)
 Phần này sử dụng `heapq` để ưu tiên trạng thái có heuristic tốt hơn.  
-Trong báo cáo và khi thuyết trình, có thể mô tả là **BFS kết hợp Priority Queue / Best-First theo heuristic**.
 
 ![BFS Priority](Images/03-bfs.png)
 
